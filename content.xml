@@ -1,0 +1,1661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260511222914K06QAX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260511222914VW58IZ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Descubrimos Europa</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Proyecto competencial para sexto de Educación Primaria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Isabel María Cruz Rodríguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto educativo dirigido al alumnado de 6.º de Educación Primaria para descubrir los países, culturas y características principales de Europa mediante actividades digitales, trabajo cooperativo y creación de una infografía en Canva. El proyecto fomenta la competencia digital, el trabajo cooperativo y el aprendizaje significativo a través de actividades de investigación, creación y exposición oral.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778527735353</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp1lhrf3-qtaj0e31b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrf3-qtaj0e31b</odePageId>
+      <odeBlockId>block-1778315782042-shaw9n47t</odeBlockId>
+      <blockName>Descubrimos Europa</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrf3-qtaj0e31b</odePageId>
+          <odeBlockId>block-1778315782042-shaw9n47t</odeBlockId>
+          <odeIdeviceId>idevice-1778315782041-kljlqyqub</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En este proyecto aprenderemos sobre los países, culturas, monumentos y tradiciones de Europa mediante actividades de investigación, trabajo cooperativo y creación de una infografía digital.<br /></p>
+<p style="text-align: justify;">El proyecto fomentará la competencia digital, el aprendizaje significativo y el trabajo en equipo a través de herramientas digitales como Canva, Google Docs, Padlet y Symbaloo.</p>
+<p><img src="{{context_path}}/content/resources/FOTO PORTADA INICIO MAPA DE EUROPA.png" title="Mapa de Europa." width="1280" height="909" alt="Mapa de Europa formado por las banderas de diferentes países europeos." /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778315782041-kljlqyqub","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En este proyecto aprenderemos sobre los países, culturas, monumentos y tradiciones de Europa mediante actividades de investigación, trabajo cooperativo y creación de una infografía digital.<br /></p>\n<p style=\"text-align: justify;\">El proyecto fomentará la competencia digital, el aprendizaje significativo y el trabajo en equipo a través de herramientas digitales como Canva, Google Docs, Padlet y Symbaloo.</p>\n<p><img src=\"{{context_path}}/content/resources/FOTO PORTADA INICIO MAPA DE EUROPA.png\" title=\"Mapa de Europa.\" width=\"1280\" height=\"909\" alt=\"Mapa de Europa formado por las banderas de diferentes países europeos.\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1lhrf6-qa3v2pv8c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrf6-qa3v2pv8c</odePageId>
+      <odeBlockId>block-1778367022315-9bqsrniky</odeBlockId>
+      <blockName>¿En qué consiste este proyecto?</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrf6-qa3v2pv8c</odePageId>
+          <odeBlockId>block-1778367022315-9bqsrniky</odeBlockId>
+          <odeIdeviceId>idevice-1778367022312-19ts5asg2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto nos convertiremos en exploradores de Europa. Investigaremos diferentes países, sus monumentos, tradiciones, gastronomía, idiomas y curiosidades culturales.<br /></p>
+<p>Trabajaremos de forma cooperativa utilizando herramientas digitales como Canva, Google Docs, Padlet y Symbaloo para buscar información, seleccionar fuentes fiables, organizar ideas y crear contenidos digitales.<br /></p>
+<p>A lo largo de las actividades realizaremos investigaciones y tareas cooperativas para aprender de una forma dinámica y divertida, fomentando la creatividad, la competencia digital, el pensamiento crítico y el trabajo en equipo.<br /></p>
+<p>Al finalizar el proyecto, cada grupo elaborará una infografía digital sobre un país europeo y la presentará al resto de la clase mediante una exposición oral.</p>
+<p><strong>¿Qué aprenderemos?</strong><br />Los países y culturas de Europa.<br />Monumentos y tradiciones europeas.<br />Uso de herramientas digitales.<br />Selección de información fiable en Internet.<br />Trabajo cooperativo y comunicación oral.<br /></p>
+<p><strong>¿Qué vamos a hacer?</strong><br />Buscar información.<br />Realizar actividades cooperativas.<br />Crear una infografía digital.<br />Exponer nuestro trabajo en clase.</p>
+<p><strong>¿Cómo trabajaremos?</strong><br />En pequeños grupos.<br />Utilizando Canva, Google Docs, Padlet y Symbaloo.<br />Mediante actividades dinámicas y colaborativas.</p>
+<p><strong>¿Cuál será el producto final?</strong><br />Cada grupo elaborará una infografía digital sobre un país europeo y la presentará al resto de la clase mediante una exposición oral.</p>
+<p><img src="{{context_path}}/content/resources/Foto monumentos Europa.jpg" title="Monumentos de Europa." width="425" height="231" alt="Collage de monumentos y lugares emblemáticos de Europa." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778367022312-19ts5asg2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto nos convertiremos en exploradores de Europa. Investigaremos diferentes países, sus monumentos, tradiciones, gastronomía, idiomas y curiosidades culturales.<br /></p>\n<p>Trabajaremos de forma cooperativa utilizando herramientas digitales como Canva, Google Docs, Padlet y Symbaloo para buscar información, seleccionar fuentes fiables, organizar ideas y crear contenidos digitales.<br /></p>\n<p>A lo largo de las actividades realizaremos investigaciones y tareas cooperativas para aprender de una forma dinámica y divertida, fomentando la creatividad, la competencia digital, el pensamiento crítico y el trabajo en equipo.<br /></p>\n<p>Al finalizar el proyecto, cada grupo elaborará una infografía digital sobre un país europeo y la presentará al resto de la clase mediante una exposición oral.</p>\n<p><strong>¿Qué aprenderemos?</strong><br />Los países y culturas de Europa.<br />Monumentos y tradiciones europeas.<br />Uso de herramientas digitales.<br />Selección de información fiable en Internet.<br />Trabajo cooperativo y comunicación oral.<br /></p>\n<p><strong>¿Qué vamos a hacer?</strong><br />Buscar información.<br />Realizar actividades cooperativas.<br />Crear una infografía digital.<br />Exponer nuestro trabajo en clase.</p>\n<p><strong>¿Cómo trabajaremos?</strong><br />En pequeños grupos.<br />Utilizando Canva, Google Docs, Padlet y Symbaloo.<br />Mediante actividades dinámicas y colaborativas.</p>\n<p><strong>¿Cuál será el producto final?</strong><br />Cada grupo elaborará una infografía digital sobre un país europeo y la presentará al resto de la clase mediante una exposición oral.</p>\n<p><img src=\"{{context_path}}/content/resources/Foto monumentos Europa.jpg\" title=\"Monumentos de Europa.\" width=\"425\" height=\"231\" alt=\"Collage de monumentos y lugares emblemáticos de Europa.\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1lhrf6-h3xk830tk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrf6-h3xk830tk</odePageId>
+      <odeBlockId>block-1778401003921-y6d8wt8ju</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrf6-h3xk830tk</odePageId>
+          <odeBlockId>block-1778401003921-y6d8wt8ju</odeBlockId>
+          <odeIdeviceId>idevice-1778401003918-f5z86ziwq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de comenzar el proyecto, aprenderemos la importancia de utilizar Internet y las herramientas digitales de forma segura y responsable. Debemos proteger nuestros datos personales, respetar a los demás y hacer un uso adecuado de la información y de los recursos digitales.</p>
+<p><img src="{{context_path}}/content/resources/INFOGRAFÍA PROTECCIÓN DE DATOS Y USO SEGURO DE INTERNET ISABEL MARÍA CRUZ RODRÍGUEZ.png" title="Uso seguro de Internet." width="677" height="1682" alt="Infografía sobre protección de datos y uso responsable de Internet." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778401003918-f5z86ziwq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de comenzar el proyecto, aprenderemos la importancia de utilizar Internet y las herramientas digitales de forma segura y responsable. Debemos proteger nuestros datos personales, respetar a los demás y hacer un uso adecuado de la información y de los recursos digitales.</p>\n<p><img src=\"{{context_path}}/content/resources/INFOGRAFÍA PROTECCIÓN DE DATOS Y USO SEGURO DE INTERNET ISABEL MARÍA CRUZ RODRÍGUEZ.png\" title=\"Uso seguro de Internet.\" width=\"677\" height=\"1682\" alt=\"Infografía sobre protección de datos y uso responsable de Internet.\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1lhrf7-etex5xdzo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final del alumnado</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrf7-etex5xdzo</odePageId>
+      <odeBlockId>block-1778402207021-3ecjwnk7w</odeBlockId>
+      <blockName>¿Cuál será el producto final?</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrf7-etex5xdzo</odePageId>
+          <odeBlockId>block-1778402207021-3ecjwnk7w</odeBlockId>
+          <odeIdeviceId>idevice-1778402207018-31dbcqebs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final de este proyecto consistirá en la elaboración de una infografía digital sobre un país europeo por parte de cada grupo utilizando la herramienta Canva.</p>
+<p>Cada grupo investigará un país europeo diferente y buscará información sobre su localización, monumentos, gastronomía, idioma, tradiciones y curiosidades culturales. Después, organizará la información de forma visual para elaborar una infografía clara, atractiva y bien estructurada.<br /></p>
+<p><img src="{{context_path}}/content/resources/Imagen Aprendizaje cooperativo TIC.png" title="Trabajo cooperativo con herramientas digitales." width="1280" height="905" alt="Alumnos trabajando de forma cooperativa con herramientas digitales." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Utilizaremos Canva porque es una herramienta sencilla, visual y fácil de usar, que permite crear contenidos digitales de manera dinámica y motivadora.<br /></p>
+<p>Finalmente, cada grupo presentará su trabajo al resto de la clase mediante una exposición oral, compartiendo la información aprendida sobre el país investigado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778402207018-31dbcqebs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final de este proyecto consistirá en la elaboración de una infografía digital sobre un país europeo por parte de cada grupo utilizando la herramienta Canva.</p>\n<p>Cada grupo investigará un país europeo diferente y buscará información sobre su localización, monumentos, gastronomía, idioma, tradiciones y curiosidades culturales. Después, organizará la información de forma visual para elaborar una infografía clara, atractiva y bien estructurada.<br /></p>\n<p><img src=\"{{context_path}}/content/resources/Imagen Aprendizaje cooperativo TIC.png\" title=\"Trabajo cooperativo con herramientas digitales.\" width=\"1280\" height=\"905\" alt=\"Alumnos trabajando de forma cooperativa con herramientas digitales.\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>Utilizaremos Canva porque es una herramienta sencilla, visual y fácil de usar, que permite crear contenidos digitales de manera dinámica y motivadora.<br /></p>\n<p>Finalmente, cada grupo presentará su trabajo al resto de la clase mediante una exposición oral, compartiendo la información aprendida sobre el país investigado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1lhrf7-4v97xe49j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrf7-4v97xe49j</odePageId>
+      <odeBlockId>block-1778434301160-y4e2gt7yn</odeBlockId>
+      <blockName>Herramientas de curación de contenidos</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrf7-4v97xe49j</odePageId>
+          <odeBlockId>block-1778434301160-y4e2gt7yn</odeBlockId>
+          <odeIdeviceId>idevice-1778434301156-zcwj9io7s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sección encontrarás diferentes herramientas de curación de contenidos que nos ayudarán a organizar, seleccionar y acceder a recursos digitales relacionados con el proyecto.</p>
+<p>Utilizaremos plataformas como Padlet y Symbaloo para recopilar información, recursos educativos y herramientas digitales útiles para el desarrollo de las actividades y la elaboración del producto final.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778434301156-zcwj9io7s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sección encontrarás diferentes herramientas de curación de contenidos que nos ayudarán a organizar, seleccionar y acceder a recursos digitales relacionados con el proyecto.</p>\n<p>Utilizaremos plataformas como Padlet y Symbaloo para recopilar información, recursos educativos y herramientas digitales útiles para el desarrollo de las actividades y la elaboración del producto final.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1lhrf8-66dh521qb</odePageId>
+  <odeParentPageId>page-mp1lhrf7-4v97xe49j</odeParentPageId>
+  <pageName>Padlet</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Padlet</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Padlet</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrf8-66dh521qb</odePageId>
+      <odeBlockId>block-1778434590988-l7aewpeoy</odeBlockId>
+      <blockName>Padlet: recursos para el alumnado</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrf8-66dh521qb</odePageId>
+          <odeBlockId>block-1778434590988-l7aewpeoy</odeBlockId>
+          <odeIdeviceId>idevice-1778434590986-q9bfev8ou</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este Padlet encontrarás diferentes recursos educativos relacionados con el proyecto “Descubrimos Europa”.</p>
+<p>Aquí podrás acceder a vídeos, imágenes, páginas web y materiales útiles para buscar información sobre los países de Europa y elaborar la infografía digital del proyecto.</p>
+<p>Enlace de Padlet: </p>
+<p><a href="https://padlet.com/isabelcruz73/descubrimos-europa-afr500yusfv3qyxp">https://padlet.com/isabelcruz73/descubrimos-europa-afr500yusfv3qyxp</a></p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/Padlet I.png" title="Padlet de recursos educativos (I)" width="1280" height="635" alt="Padlet con recursos educativos sobre Europa." /></p>
+<p><img src="{{context_path}}/content/resources/Padlet II.png" title="Padlet de recursos educativos (II)" width="1280" height="629" alt="Padlet con recursos educativos sobre Europa." /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778434590986-q9bfev8ou","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este Padlet encontrarás diferentes recursos educativos relacionados con el proyecto “Descubrimos Europa”.</p>\n<p>Aquí podrás acceder a vídeos, imágenes, páginas web y materiales útiles para buscar información sobre los países de Europa y elaborar la infografía digital del proyecto.</p>\n<p>Enlace de Padlet: </p>\n<p><a href=\"https://padlet.com/isabelcruz73/descubrimos-europa-afr500yusfv3qyxp\">https://padlet.com/isabelcruz73/descubrimos-europa-afr500yusfv3qyxp</a></p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/Padlet I.png\" title=\"Padlet de recursos educativos (I)\" width=\"1280\" height=\"635\" alt=\"Padlet con recursos educativos sobre Europa.\" /></p>\n<p><img src=\"{{context_path}}/content/resources/Padlet II.png\" title=\"Padlet de recursos educativos (II)\" width=\"1280\" height=\"629\" alt=\"Padlet con recursos educativos sobre Europa.\" /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1lhrf8-ybkwgvb83</odePageId>
+  <odeParentPageId>page-mp1lhrf7-4v97xe49j</odeParentPageId>
+  <pageName>Symbaloo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Symbaloo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Symbaloo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrf8-ybkwgvb83</odePageId>
+      <odeBlockId>block-1778435355530-jbl679kmn</odeBlockId>
+      <blockName>Symbaloo: herramientas digitales para el profesorado</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrf8-ybkwgvb83</odePageId>
+          <odeBlockId>block-1778435355530-jbl679kmn</odeBlockId>
+          <odeIdeviceId>idevice-1778435355528-3b7to5alh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este Symbaloo se recopilan diferentes herramientas digitales útiles para el profesorado, como Google Drive, Google Classroom, Google Calendar, Canva o Kahoot.</p>
+<p>Este webmix permite acceder de forma rápida y organizada a recursos digitales relacionados con la gestión, creación y evaluación de actividades en el aula.<br /></p>
+<p>Enlace de Symbaloo:</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAA_QH0RUAA41_W3QzQw==">https://www.symbaloo.com/shared/AAAAA_QH0RUAA41_W3QzQw==</a></p>
+<p><img src="{{context_path}}/content/resources/Symbaloo.png" title="Symbaloo de heramientas digitales." width="1280" height="640" alt="Symbaloo con herramientas digitales para el profesorado." /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778435355528-3b7to5alh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este Symbaloo se recopilan diferentes herramientas digitales útiles para el profesorado, como Google Drive, Google Classroom, Google Calendar, Canva o Kahoot.</p>\n<p>Este webmix permite acceder de forma rápida y organizada a recursos digitales relacionados con la gestión, creación y evaluación de actividades en el aula.<br /></p>\n<p>Enlace de Symbaloo:</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAA_QH0RUAA41_W3QzQw==\">https://www.symbaloo.com/shared/AAAAA_QH0RUAA41_W3QzQw==</a></p>\n<p><img src=\"{{context_path}}/content/resources/Symbaloo.png\" title=\"Symbaloo de heramientas digitales.\" width=\"1280\" height=\"640\" alt=\"Symbaloo con herramientas digitales para el profesorado.\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1lhrf8-a39nhzers</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Secuencia de actividades</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia de actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia de actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrf8-a39nhzers</odePageId>
+      <odeBlockId>block-1778435844453-p414l6yue</odeBlockId>
+      <blockName>Secuencia de actividades</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrf8-a39nhzers</odePageId>
+          <odeBlockId>block-1778435844453-p414l6yue</odeBlockId>
+          <odeIdeviceId>idevice-1778435844451-khz8y5f1t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sección se presenta la secuencia de actividades del proyecto, organizada mediante una línea temporal.</p>
+<p>A través de ella podremos conocer las diferentes tareas, sesiones y actividades que realizaremos durante el desarrollo del proyecto “Descubrimos Europa”.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778435844451-khz8y5f1t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sección se presenta la secuencia de actividades del proyecto, organizada mediante una línea temporal.</p>\n<p>A través de ella podremos conocer las diferentes tareas, sesiones y actividades que realizaremos durante el desarrollo del proyecto “Descubrimos Europa”.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1lhrf9-c9dz77lkd</odePageId>
+  <odeParentPageId>page-mp1lhrf8-a39nhzers</odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrf9-c9dz77lkd</odePageId>
+      <odeBlockId>block-1778436307273-i69uqqs4x</odeBlockId>
+      <blockName>Línea temporal del proyecto</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrf9-c9dz77lkd</odePageId>
+          <odeBlockId>block-1778436307273-i69uqqs4x</odeBlockId>
+          <odeIdeviceId>idevice-1778436307270-rz4dntpod</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta línea temporal se presenta la organización de las actividades y tareas del proyecto “Descubrimos Europa”.</p>
+<p>A través de ella podemos conocer las diferentes sesiones, actividades y momentos de trabajo que realizaremos durante el desarrollo del proyecto.</p>
+<p>Enlace de la línea temporal: </p>
+<p>https://acrobat.adobe.com/id/urn:aaid:sc:EU:89097e3a-570a-4438-9b1e-cebf04185a43</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/LÍNEA TEMPORAL.png" title="Línea temporal del proyecto." width="1280" height="714" alt="Línea temporal con la organización de las actividades del proyecto “Descubrimos Europa”." /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778436307270-rz4dntpod","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta línea temporal se presenta la organización de las actividades y tareas del proyecto “Descubrimos Europa”.</p>\n<p>A través de ella podemos conocer las diferentes sesiones, actividades y momentos de trabajo que realizaremos durante el desarrollo del proyecto.</p>\n<p>Enlace de la línea temporal: </p>\n<p>https://acrobat.adobe.com/id/urn:aaid:sc:EU:89097e3a-570a-4438-9b1e-cebf04185a43</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/LÍNEA TEMPORAL.png\" title=\"Línea temporal del proyecto.\" width=\"1280\" height=\"714\" alt=\"Línea temporal con la organización de las actividades del proyecto “Descubrimos Europa”.\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1lhrf9-a3yb8u92d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación asociados a las actividades</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación asociados a las actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación asociados a las actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrf9-a3yb8u92d</odePageId>
+      <odeBlockId>block-1778437331109-80mqliclf</odeBlockId>
+      <blockName>Relacionamos tareas con criterios de evaluación</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrf9-a3yb8u92d</odePageId>
+          <odeBlockId>block-1778437331109-80mqliclf</odeBlockId>
+          <odeIdeviceId>idevice-1778437331108-5tm0tl6br</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sección se relacionan las diferentes tareas del proyecto con los criterios de evaluación correspondientes, el tipo de agrupamiento, la temporalización aproximada y las herramientas digitales utilizadas durante el desarrollo de las actividades.</p>
+<p><img src="{{context_path}}/content/resources/CRITERIOS DE EVALUACIÓN (I).png" title="Relación entre tareas y criterios de evaluación (I)." width="1280" height="693" alt="Tabla con la relación entre tareas y criterios de evaluación del proyecto." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img src="{{context_path}}/content/resources/CRITERIOS DE EVALUACIÓN (II).png" title="Relación entre tareas y criterios de evaluación (II)." width="1280" height="362" alt="Tabla con la relación entre tareas y criterios de evaluación del proyecto." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img src="{{context_path}}/content/resources/CRITERIOS DE EVALUACIÓN (III).png" title="Relación entre tareas y criterios de evaluación (III)." width="1280" height="427" alt="Tabla con la relación entre tareas y criterios de evaluación del proyecto." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778437331108-5tm0tl6br","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sección se relacionan las diferentes tareas del proyecto con los criterios de evaluación correspondientes, el tipo de agrupamiento, la temporalización aproximada y las herramientas digitales utilizadas durante el desarrollo de las actividades.</p>\n<p><img src=\"{{context_path}}/content/resources/CRITERIOS DE EVALUACIÓN (I).png\" title=\"Relación entre tareas y criterios de evaluación (I).\" width=\"1280\" height=\"693\" alt=\"Tabla con la relación entre tareas y criterios de evaluación del proyecto.\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><img src=\"{{context_path}}/content/resources/CRITERIOS DE EVALUACIÓN (II).png\" title=\"Relación entre tareas y criterios de evaluación (II).\" width=\"1280\" height=\"362\" alt=\"Tabla con la relación entre tareas y criterios de evaluación del proyecto.\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><img src=\"{{context_path}}/content/resources/CRITERIOS DE EVALUACIÓN (III).png\" title=\"Relación entre tareas y criterios de evaluación (III).\" width=\"1280\" height=\"427\" alt=\"Tabla con la relación entre tareas y criterios de evaluación del proyecto.\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1lhrf9-n93id91go</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrf9-n93id91go</odePageId>
+      <odeBlockId>block-1778438240687-9pi9rw79o</odeBlockId>
+      <blockName>Evaluación del proyecto</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrf9-n93id91go</odePageId>
+          <odeBlockId>block-1778438240687-9pi9rw79o</odeBlockId>
+          <odeIdeviceId>idevice-1778438240684-qwwl3k9o8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación del proyecto “Descubrimos Europa” será continua, formativa y competencial. Se valorará tanto el proceso de aprendizaje del alumnado como el producto final elaborado durante el proyecto.<br /></p>
+<p>Para ello, se utilizarán diferentes instrumentos de evaluación que permitirán valorar aspectos como la búsqueda y selección de información fiable, el trabajo cooperativo, el uso adecuado de herramientas digitales, la elaboración de la infografía y la exposición oral final.</p>
+<p></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778438240684-qwwl3k9o8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación del proyecto “Descubrimos Europa” será continua, formativa y competencial. Se valorará tanto el proceso de aprendizaje del alumnado como el producto final elaborado durante el proyecto.<br /></p>\n<p>Para ello, se utilizarán diferentes instrumentos de evaluación que permitirán valorar aspectos como la búsqueda y selección de información fiable, el trabajo cooperativo, el uso adecuado de herramientas digitales, la elaboración de la infografía y la exposición oral final.</p>\n<p></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1lhrfa-myjx8mxhr</odePageId>
+  <odeParentPageId>page-mp1lhrf9-n93id91go</odeParentPageId>
+  <pageName>Rúbrica de evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Rúbrica de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrfa-myjx8mxhr</odePageId>
+      <odeBlockId>block-1778439693666-4l5x3gjuu</odeBlockId>
+      <blockName>Rúbrica de Evaluación</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrfa-myjx8mxhr</odePageId>
+          <odeBlockId>block-1778439693666-4l5x3gjuu</odeBlockId>
+          <odeIdeviceId>idevice-1778439693664-tapxwammd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Rúbrica de evaluación<br />Se utilizará una rúbrica para evaluar la infografía digital elaborada en Canva y la exposición oral final del proyecto.</p>
+<p>Enlace público a la rúbrica de evaluación del proyecto “Descubrimos Europa”:</p>
+<p>https://acrobat.adobe.com/id/urn:aaid:sc:EU:2f122d6e-a830-4b52-ba21-d82c11681ece</p>
+<p> <img src="{{context_path}}/content/resources/RÚBRICA DE EVALUACIÓN.png" title="Rúbrica de evaluación." width="1280" height="732" alt="Rúbrica de evaluación del proyecto "Descubrimos Europa"." /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778439693664-tapxwammd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Rúbrica de evaluación<br />Se utilizará una rúbrica para evaluar la infografía digital elaborada en Canva y la exposición oral final del proyecto.</p>\n<p>Enlace público a la rúbrica de evaluación del proyecto “Descubrimos Europa”:</p>\n<p>https://acrobat.adobe.com/id/urn:aaid:sc:EU:2f122d6e-a830-4b52-ba21-d82c11681ece</p>\n<p> <img src=\"{{context_path}}/content/resources/RÚBRICA DE EVALUACIÓN.png\" title=\"Rúbrica de evaluación.\" width=\"1280\" height=\"732\" alt=\"Rúbrica de evaluación del proyecto \"Descubrimos Europa\".\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1lhrfa-mleu40ngc</odePageId>
+  <odeParentPageId>page-mp1lhrf9-n93id91go</odeParentPageId>
+  <pageName>Lista de cotejo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lista de cotejo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lista de cotejo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrfa-mleu40ngc</odePageId>
+      <odeBlockId>block-1778439664836-7ox8qg4qb</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrfa-mleu40ngc</odePageId>
+          <odeBlockId>block-1778439664836-7ox8qg4qb</odeBlockId>
+          <odeIdeviceId>idevice-1778439664835-sptanz55v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Lista de cotejo<br />La lista de cotejo permitirá realizar un seguimiento del trabajo cooperativo, la participación y el uso adecuado de las herramientas digitales durante las actividades.</p>
+<p>Enlace público a la lista de cotejo del proyecto “Descubrimos Europa”:</p>
+<p>https://acrobat.adobe.com/id/urn:aaid:sc:EU:d7820a03-588d-4d4b-a6ef-a7e31e5966a9</p>
+<p><img src="{{context_path}}/content/resources/LISTA DE COTEJO.png" title="Lista de cotejo." width="1280" height="1490" alt="Lista de cotejo del proyecto "Descubrimos Europa"." /></p>
+<p><br /></p>
+<p><br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778439664835-sptanz55v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Lista de cotejo<br />La lista de cotejo permitirá realizar un seguimiento del trabajo cooperativo, la participación y el uso adecuado de las herramientas digitales durante las actividades.</p>\n<p>Enlace público a la lista de cotejo del proyecto “Descubrimos Europa”:</p>\n<p>https://acrobat.adobe.com/id/urn:aaid:sc:EU:d7820a03-588d-4d4b-a6ef-a7e31e5966a9</p>\n<p><img src=\"{{context_path}}/content/resources/LISTA DE COTEJO.png\" title=\"Lista de cotejo.\" width=\"1280\" height=\"1490\" alt=\"Lista de cotejo del proyecto \"Descubrimos Europa\".\" /></p>\n<p><br /></p>\n<p><br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1lhrfa-wzv9wmc2w</odePageId>
+  <odeParentPageId>page-mp1lhrf9-n93id91go</odeParentPageId>
+  <pageName>Cuestionario de autoevaluación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cuestionario de autoevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cuestionario de autoevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrfa-wzv9wmc2w</odePageId>
+      <odeBlockId>block-1778439616708-vc5b84kw2</odeBlockId>
+      <blockName>Cuestionario de autoevaluación</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrfa-wzv9wmc2w</odePageId>
+          <odeBlockId>block-1778439616708-vc5b84kw2</odeBlockId>
+          <odeIdeviceId>idevice-1778439616706-uhz45a539</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Cuestionario de autoevaluación<br />El alumnado completará un cuestionario de autoevaluación para reflexionar sobre su aprendizaje, participación y uso responsable de las herramientas digitales.</p>
+<p>Enlace público al cuestionario de autoevaluación elaborado con Google Forms del proyecto “Descubrimos Europa”:</p>
+<p>https://acrobat.adobe.com/id/urn:aaid:sc:EU:7ff0af6b-1397-48c9-80e5-b8cf3f74ce21</p>
+<p><img src="{{context_path}}/content/resources/CUESTIONARIO DE AUTOEVALUACIÓN (I).png" title="Cuestionario de autoevaluación (I)." width="1280" height="713" alt="Cuestionario de autoevaluación del proyecto "Descubrimos Europa"." /></p>
+<p><img src="{{context_path}}/content/resources/CUESTIONARIO DE AUTOEVALUACIÓN (II).png" title="Cuestionario de autoevaluación (II)." width="1280" height="882" alt="Cuestionario de autoevaluación del proyecto "Descubrimos Europa"." /></p>
+<p><img src="{{context_path}}/content/resources/CUESTIONARIO DE AUTOEVALUACIÓN (III).png" title="Cuestionario de autoevaluación (III)." width="1280" height="999" alt="Cuestionario de autoevaluación del proyecto "Descubrimos Europa"." /></p>
+<p><img src="{{context_path}}/content/resources/CUESTIONARIO DE AUTOEVALUACIÓN (IV).png" title="Cuestionario de autoevaluación (IV)." width="1280" height="1009" alt="Cuestionario de autoevaluación del proyecto "Descubrimos Europa"." /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778439616706-uhz45a539","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cuestionario de autoevaluación<br />El alumnado completará un cuestionario de autoevaluación para reflexionar sobre su aprendizaje, participación y uso responsable de las herramientas digitales.</p>\n<p>Enlace público al cuestionario de autoevaluación elaborado con Google Forms del proyecto “Descubrimos Europa”:</p>\n<p>https://acrobat.adobe.com/id/urn:aaid:sc:EU:7ff0af6b-1397-48c9-80e5-b8cf3f74ce21</p>\n<p><img src=\"{{context_path}}/content/resources/CUESTIONARIO DE AUTOEVALUACIÓN (I).png\" title=\"Cuestionario de autoevaluación (I).\" width=\"1280\" height=\"713\" alt=\"Cuestionario de autoevaluación del proyecto \"Descubrimos Europa\".\" /></p>\n<p><img src=\"{{context_path}}/content/resources/CUESTIONARIO DE AUTOEVALUACIÓN (II).png\" title=\"Cuestionario de autoevaluación (II).\" width=\"1280\" height=\"882\" alt=\"Cuestionario de autoevaluación del proyecto \"Descubrimos Europa\".\" /></p>\n<p><img src=\"{{context_path}}/content/resources/CUESTIONARIO DE AUTOEVALUACIÓN (III).png\" title=\"Cuestionario de autoevaluación (III).\" width=\"1280\" height=\"999\" alt=\"Cuestionario de autoevaluación del proyecto \"Descubrimos Europa\".\" /></p>\n<p><img src=\"{{context_path}}/content/resources/CUESTIONARIO DE AUTOEVALUACIÓN (IV).png\" title=\"Cuestionario de autoevaluación (IV).\" width=\"1280\" height=\"1009\" alt=\"Cuestionario de autoevaluación del proyecto \"Descubrimos Europa\".\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1lhrfb-3pqh8xdld</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrfb-3pqh8xdld</odePageId>
+      <odeBlockId>block-1778440634405-lijs9mtdq</odeBlockId>
+      <blockName>Guía didáctica del proyecto</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrfb-3pqh8xdld</odePageId>
+          <odeBlockId>block-1778440634405-lijs9mtdq</odeBlockId>
+          <odeIdeviceId>idevice-1778440634403-iiflco7al</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El proyecto “Descubrimos Europa” está dirigido al alumnado de 6.º de Educación Primaria y se desarrolla a lo largo de varias sesiones mediante una metodología activa, cooperativa y basada en proyectos.<br /></p>
+<p>A través de las diferentes actividades, el alumnado investigará sobre distintos países europeos utilizando herramientas digitales como Canva, Padlet, Google Docs y Symbaloo, favoreciendo el desarrollo de la competencia digital, el pensamiento crítico y el trabajo cooperativo.<br /></p>
+<p>El producto final consistirá en la elaboración y exposición oral de diferentes infografías digitales sobre distintos países europeos, realizadas por los diferentes grupos de trabajo.<br /></p>
+<p>La presente guía didáctica muestra la relación entre las tareas del proyecto y los elementos curriculares, como son las competencias específicas, los criterios de evaluación y los saberes básicos.</p>
+<p>Enlace a la guía didáctica:</p>
+<p>https://acrobat.adobe.com/id/urn:aaid:sc:EU:817bbd51-84a8-4ebb-b10b-f6bcf78dace3</p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" title="Guía didáctica (I): relación entre tareas y elementos curriculares." width="1280" height="719" alt="Guía didáctica: tareas, competencias específicas, criterios de evaluación y saberes básicos del proyecto." /></p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" title="Guía didáctica (II): relación entre tareas y elementos curriculares." width="1280" height="710" alt="Guía didáctica: tareas, competencias específicas, criterios de evaluación y saberes básicos del proyecto." /></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778440634403-iiflco7al","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El proyecto “Descubrimos Europa” está dirigido al alumnado de 6.º de Educación Primaria y se desarrolla a lo largo de varias sesiones mediante una metodología activa, cooperativa y basada en proyectos.<br /></p>\n<p>A través de las diferentes actividades, el alumnado investigará sobre distintos países europeos utilizando herramientas digitales como Canva, Padlet, Google Docs y Symbaloo, favoreciendo el desarrollo de la competencia digital, el pensamiento crítico y el trabajo cooperativo.<br /></p>\n<p>El producto final consistirá en la elaboración y exposición oral de diferentes infografías digitales sobre distintos países europeos, realizadas por los diferentes grupos de trabajo.<br /></p>\n<p>La presente guía didáctica muestra la relación entre las tareas del proyecto y los elementos curriculares, como son las competencias específicas, los criterios de evaluación y los saberes básicos.</p>\n<p>Enlace a la guía didáctica:</p>\n<p>https://acrobat.adobe.com/id/urn:aaid:sc:EU:817bbd51-84a8-4ebb-b10b-f6bcf78dace3</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" title=\"Guía didáctica (I): relación entre tareas y elementos curriculares.\" width=\"1280\" height=\"719\" alt=\"Guía didáctica: tareas, competencias específicas, criterios de evaluación y saberes básicos del proyecto.\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" title=\"Guía didáctica (II): relación entre tareas y elementos curriculares.\" width=\"1280\" height=\"710\" alt=\"Guía didáctica: tareas, competencias específicas, criterios de evaluación y saberes básicos del proyecto.\" /></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1lhrfb-w8dmpdpjb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1lhrfb-w8dmpdpjb</odePageId>
+      <odeBlockId>block-1778529691528-7ktxur2yi</odeBlockId>
+      <blockName>Créditos del proyecto</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1lhrfb-w8dmpdpjb</odePageId>
+          <odeBlockId>block-1778529691528-7ktxur2yi</odeBlockId>
+          <odeIdeviceId>idevice-1778529691524-hjws7tjd1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autora: </strong>Isabel María Cruz Rodríguez.<br /><strong></strong></p>
+<p><strong>Descripción:</strong> Proyecto educativo “Descubrimos Europa”, dirigido al alumnado de sexto de Educación Primaria y centrado en el desarrollo de la competencia digital mediante la búsqueda, selección y organización de información sobre distintos países europeos.<br /><strong></strong></p>
+<p><strong>Licencia de uso: </strong>Recurso educativo elaborado con fines educativos y formativos.<br /><strong></strong></p>
+<p><strong>Archivo editable:</strong> El proyecto ha sido realizado mediante la herramienta eXeLearning.</p>
+<p>La imagen del apartado “Producto final del alumnado” ha sido utilizada con finalidad educativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778529691524-hjws7tjd1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autora: </strong>Isabel María Cruz Rodríguez.<br /><strong></strong></p>\n<p><strong>Descripción:</strong> Proyecto educativo “Descubrimos Europa”, dirigido al alumnado de sexto de Educación Primaria y centrado en el desarrollo de la competencia digital mediante la búsqueda, selección y organización de información sobre distintos países europeos.<br /><strong></strong></p>\n<p><strong>Licencia de uso: </strong>Recurso educativo elaborado con fines educativos y formativos.<br /><strong></strong></p>\n<p><strong>Archivo editable:</strong> El proyecto ha sido realizado mediante la herramienta eXeLearning.</p>\n<p>La imagen del apartado “Producto final del alumnado” ha sido utilizada con finalidad educativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
